@@ -3,6 +3,8 @@ AR book cover implementation for CS8395 course. The selected book is The Great G
 
 This repository includes a Unity project for an AR book cover. it is made with Unity 2022.3.19f1 and Vuforia 10.20.3. It uses the Vuforia image target features, with the addition of a virtual button.
 
+Limitations: It is harder to detect the back cover of the book since it does not contain any significant images or features.
+
 How to use:
 1-) Clone this repository
 2-) Open the project using Unity (Folder ARBookCoverAyberkAcar)
