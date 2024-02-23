@@ -9,7 +9,7 @@ How to use:
 
 1-) Clone this repository 
 
-2-) Open the project using Unity 
+2-) Open the project using Unity (Folder ARBookCoverAyberkAcar)
 
 3-) Run the code, bring the covers of the book in front of the camera 
 
