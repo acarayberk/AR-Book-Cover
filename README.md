@@ -5,6 +5,8 @@ This repository includes a Unity project for an AR book cover. it is made with U
 
 Limitations: It is harder to detect the back cover of the book since it does not contain any significant images or features.
 
+The demo video and GIF can be found in the repo. If the code does not work, please reach out at ayberk.acar@vanderbilt.edu
+
 How to use:
 
 1-) Clone this repository 
@@ -16,3 +18,5 @@ How to use:
 4-) The front cover includes holograms and title text 
 
 5-) The back cover includes information and a virtual button (a white glare). When the user's hand blocks the glare, it acts as a button and changes the text to a short review. 
+
+![](https://github.com/acarayberk/AR-Book-Cover/blob/main/codedemo.gif)
